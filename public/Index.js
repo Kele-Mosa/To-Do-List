@@ -4,6 +4,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const addButton = document.getElementById('addButton');
     const taskList = document.getElementById('taskList');
 
+    // Set the minimum date for the date input
+    setMinDate();
+
+    function setMinDate() {
+        const today = new Date();
+        const yyyy = today.getFullYear();
+        const mm = String(today.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+        const dd = String(today.getDate()).padStart(2, '0');
+        taskDate.setAttribute('min', `${yyyy}-${mm}-${dd}`);
+    }
+
     // Load tasks from localStorage on page load
     loadTasks();
 
@@ -79,9 +90,18 @@ document.addEventListener('DOMContentLoaded', () => {
             deleteTaskFromLocalStorage(task);
         });
 
+        // Create edit button
+        const editButton = document.createElement('button');
+        editButton.textContent = 'Edit';
+        editButton.classList.add('edit');
+        editButton.addEventListener('click', () => {
+            editTask(task, taskSpan, taskInput, taskDate);
+        });
+
         // Append elements to the list item
         listItem.appendChild(checkbox);
         listItem.appendChild(taskSpan);
+        listItem.appendChild(editButton);
         listItem.appendChild(deleteButton);
 
         // Mark completed tasks
@@ -99,6 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
         tasks.push(task);
         localStorage.setItem('tasks', JSON.stringify(tasks));
     }
+
     // Function to update a task in localStorage
     function updateTaskInLocalStorage(updatedTask) {
         const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
@@ -124,5 +145,29 @@ document.addEventListener('DOMContentLoaded', () => {
     function loadTasks() {
         const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
         tasks.forEach((task) => renderTask(task));
+    }
+
+    // Function to edit a task
+    function editTask(task, taskSpan, taskInput, taskDate) {
+        // Prompt user for new task text and due date
+        const newTaskText = prompt('Edit Task:', task.text);
+        if (newTaskText === null || newTaskText.trim() === '') {
+            return; // User canceled or entered an empty task
+        }
+
+        const newDueDate = prompt('Edit Due Date (YYYY-MM-DD):', task.date);
+        if (newDueDate === null || newDueDate.trim() === '') {
+            return; // User canceled or entered an empty due date
+        }
+
+        // Update the task object
+        task.text = newTaskText.trim();
+        task.date = newDueDate.trim();
+
+        // Update the task display
+        taskSpan.textContent = `${task.text} (Due: ${task.date})`;
+
+        // Update localStorage
+        updateTaskInLocalStorage(task);
     }
 });
