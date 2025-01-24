@@ -1,38 +1,38 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+👋 Hello, World!  
 
-###
+✨ **Creating bugs since** ...  
+📚 **I'm currently learning** HTML, CSS, JavaScript, Node.js, Networking, C#, and Microsoft 365.  
+🎯 **Goals**: Become skilled in web development and explore back-end technologies.  
+🎲 **Fun fact**: Debugging is like being a detective in a crime movie where you are also the murderer.  
 
-<p align="left">👋 About Me<br>I’m Kelebohile, I’m an aspiring developer passionate about building functional and user-friendly web applications. This To-Do List project showcases my skills in HTML, CSS, JavaScript, and Node.js.<br><br>I created this project as part of my journey to improve my front-end and back-end development skills. It’s simple yet practical, and I hope you find it useful or inspiring for your own projects!</p>
+---
 
-###
+💻 About Me  
+I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  
 
-<h2 align="left">About me</h2>
+🌟 *“Every expert was once a beginner.”*  
 
-###
+---
 
-<p align="left"># 👋 Hello, World!  <br><br>✨ **Creating bugs since** ...  <br>📚 **I'm currently learning** HTML, CSS, JavaScript, Node.js, Networking, C#, and Microsoft 365.  <br>🎯 **Goals**: Become skilled in web development and explore back-end technologies.  <br>🎲 **Fun fact**: Debugging is like being a detective in a crime movie where you are also the murderer.  <br><br>---<br><br>
-### 💻 About Me  <br>I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  <br><br>🌟 *“Every expert was once a beginner.”*  <br><br>---<br><br>
-### 🚀 Technologies I'm Exploring  <br>- **Frontend**: HTML, CSS, JavaScript  <br>- **Backend**: Node.js  <br>- **Networking & Systems**: Microsoft 365, Networking Basics  <br>- **Languages**: C#  <br><br>---<br><br>
-### 📈 GitHub Stats  <br>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kele-Mosa&show_icons=true&theme=radical)  <br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Mosa&layout=compact&theme=radical)  <br><br>---<br><br>
-### 🌐 Links  <br>- 🌟 Check out my [To-Do List Project](https://to-do-list-06mo.onrender.com/)  <br>- 🧑‍💻 Visit my GitHub: [github.com/Kele-Mosa](https://github.com/Kele-Mosa)  <br><br>---<br><br>🌟 Feel free to connect and collaborate! Let’s create something awesome together!</p>
+🚀 Technologies I'm Exploring  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Node.js  
+- **Networking & Systems**: Microsoft 365, Networking Basics  
+- **Languages**: C#  
 
-###
+---
 
-<h2 align="left">I code with</h2>
+📈 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kele-Mosa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Mosa&layout=compact&theme=radical)  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-##
+🌐 Links  
+- 📝 Check out my [To-Do List Project](https://to-do-list-06mo.onrender.com/)  
+- 🧑‍💻 Visit my GitHub: [github.com/Kele-Mosa](https://github.com/Kele-Mosa)  
+
+---
+
+🌟 Feel free to connect and collaborate! Let’s create something awesome together!  
+
