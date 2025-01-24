@@ -10,9 +10,9 @@
 
 
 <p align="left"># 👋 Hello, World!  <br><br>📚 **I'm currently learning** HTML, CSS, JavaScript, Node.js, Networking, C#, and Microsoft 365.  <br>🎯 **Goals**: Become skilled in web development and explore back-end technologies.  <br>🎲 **Fun fact**: Debugging is like being a detective in a crime movie where you are also the murderer.  <br><br>---<br><br>
-## 💻 About Me  <br>I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  <br><br>🌟 *“Every expert was once a beginner.”*  <br><br>---<br><br>
-## 🚀 Technologies I'm Exploring  <br>- **Frontend**: HTML, CSS, JavaScript  <br>- **Backend**: Node.js  <br>- **Networking & Systems**: Microsoft 365, Networking Basics  <br>- **Languages**: C#  <br><br>---<br><br>
-## 📈 GitHub Stats  <br>![Your GitHub stats](https://https://to-do-list-06mo.onrender.com/)  <br>username=https://github.com/Kele-Mosa)  <br><br>---<br><br>🌟 Feel free to connect and collaborate!</p>
+ 💻 About Me  <br>I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  <br><br>🌟 *“Every expert was once a beginner.”*  <br><br>---<br><br>
+🚀 Technologies I'm Exploring  <br>- **Frontend**: HTML, CSS, JavaScript  <br>- **Backend**: Node.js  <br>- **Networking & Systems**: Microsoft 365, Networking Basics  <br>- **Languages**: C#  <br><br>---<br><br>
+📈 GitHub Stats  <br>![Your GitHub stats](https://https://to-do-list-06mo.onrender.com/)  <br>username=https://github.com/Kele-Mosa)  <br><br>---<br><br>🌟 Feel free to connect and collaborate!</p>
 
 
 
