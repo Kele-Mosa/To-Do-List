@@ -15,7 +15,6 @@
 📈 GitHub Stats  <br>![Your GitHub stats](https://https://to-do-list-06mo.onrender.com/)  <br>username=https://github.com/Kele-Mosa)  <br><br>---<br><br>🌟 Feel free to connect and collaborate!</p>
 
 
-
 <h2 align="left">I code with</h2>
 
 
