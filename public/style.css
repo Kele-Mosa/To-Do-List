@@ -116,6 +116,7 @@ button.delete {
     border: none;
     padding: 5px 10px;
     cursor: pointer;
+   
 }
 
 .button.delete:hover {
