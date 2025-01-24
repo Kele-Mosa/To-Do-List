@@ -5,7 +5,6 @@
 <p align="left">I'm Kelebohile! I’m an aspiring developer passionate about building functional and user-friendly web applications. This To-Do List project showcases my skills in HTML, CSS, JavaScript, and Node.js.<br><br>I created this project as part of my journey to improve my front-end and back-end development skills. It’s simple yet practical, and I hope you find it useful or inspiring for your own projects!</p>
 
 
-
 <h2 align="left">About me</h2>
 
 
