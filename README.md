@@ -12,6 +12,13 @@
  💻 About Me  <br>I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  <br><br>🌟 *“Every expert was once a beginner.”*  <br><br>---<br><br>
 🚀 Technologies I'm Exploring  <br>- **Frontend**: HTML, CSS, JavaScript  <br>- **Backend**: Node.js  <br>- **Networking & Systems**: Microsoft 365, Networking Basics  <br>- **Languages**: C#  <br><br>---<br><br>
 📈 GitHub Stats  <br>![Your GitHub stats](https://https://to-do-list-06mo.onrender.com/)  <br>username=https://github.com/Kele-Mosa)  <br><br>---<br><br>🌟 Feel free to connect and collaborate!</p>
+ ## Features
+
+- **Add Tasks:** Quickly add new tasks to your list.
+- **Edit Tasks:** Update task details with ease.
+- **Delete Tasks:** Remove tasks that are no longer relevant.
+- **Mark as Complete:** Mark tasks as done to keep track of progress.
+- **Responsive Design:** Optimized for both desktop and mobile use.
 
 
 <h2 align="left">I code with</h2>
@@ -35,3 +42,8 @@
 
 🌟 Feel free to connect and collaborate! Let’s create something awesome together!  
 
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+- **Email:** kelebohilemokone@gmail.com
+- **GitHub:** (https://github.com/Kele-Mosa))
