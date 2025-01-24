@@ -112,7 +112,7 @@ li.completed {
 
 button.delete {
     background: #f44336;
-    color: white;
+    color: rgb(245, 235, 235);
     border: none;
     padding: 5px 10px;
     cursor: pointer;
