@@ -7,7 +7,6 @@
 
 <h2 align="left">About me</h2>
 
-
 <p align="left"># 👋 Hello, World!  <br><br>📚 **I'm currently upskilling and learning more on ** HTML, CSS, JavaScript, Node.js, Networking, C#, and Microsoft 365.  <br>🎯 **Goals**: Become skilled in web development and explore back-end technologies, aswell as front-end.  <br>🎲 **Fun fact**: Debugging is like being a detective in a crime movie, carefully piecing together clues to solve the mystery, except you’re also the culprit who unknowingly committed the crime and now has to retrace your steps to uncover what went wrong.  <br><br>---<br><br>
  💻 About Me  <br>I’m an aspiring developer with a focus on improving my programming and technical skills. I enjoy exploring new technologies and turning ideas into functional solutions.  <br><br>🌟 *“Every expert was once a beginner.”*  <br><br>---<br><br>
 🚀 Technologies I'm Exploring  <br>- **Frontend**: HTML, CSS, JavaScript  <br>- **Backend**: Node.js  <br>- **Networking & Systems**: Microsoft 365, Networking Basics  <br>- **Languages**: C#  <br><br>---<br><br>
